@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template-vite",
+  "name": "Project...my_file",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template-vite/",
+    "build": "vite build --base=/Project...my_file/",
     "preview": "vite preview"
   },
   "devDependencies": {
