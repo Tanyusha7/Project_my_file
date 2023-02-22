@@ -1,0 +1,39 @@
+.restaurant {
+  padding: 100px 0;
+}
+
+.restaurant-container {
+  display: flex;
+  gap: 32px;
+  justify-content: space-between;
+}
+
+.restaurant-list {
+  display: flex;
+  gap: 32px;
+  height: 389px;
+  list-style: none;
+}
+.restaurant-item {
+  display: block;
+
+  padding: 0;
+}
+
+.restaurant-desc {
+  max-width: 833px;
+}
+
+.restaurant-desc-text {
+  display: flex;
+  gap: 32px;
+  margin-top: 32px;
+}
+
+.restaurant-cooking {
+  width: 334px;
+}
+
+.restaurant-drinking {
+  width: 467px;
+}
