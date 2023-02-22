@@ -9,8 +9,7 @@ p {
   margin: 0;
 }
 
-p:last-child {
-  margin-bottom: 0;
+.list {
 }
 
 ul {
@@ -32,4 +31,8 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+address {
+  font-style: normal;
 }
