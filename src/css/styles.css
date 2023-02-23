@@ -6,7 +6,6 @@
 */
 @import url('./base/reset.css');
 @import url('./base/common.css');
-@import url('./header.css');
 
 @import url('./layout/hero.css');
 @import url('./layout/restaurant.css');
