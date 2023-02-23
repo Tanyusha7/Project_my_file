@@ -1,11 +1,11 @@
 {
-  "name": "Project...my_file",
+  "name": "Project_my_file",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project...my_file/",
+    "build": "vite build --base=/Project_my_file/",
     "preview": "vite preview"
   },
   "devDependencies": {
